@@ -9,7 +9,7 @@
             <div className='columnas'>
                 <div className='bienvenidos left'>
                     <h2>Biemvenidos</h2>
-                    <p>lksdf lsdfk lñaskd fl sdfl sd lsdfk jsldfkjasfñ asl  aslf lasdkfj asldkf</p>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Possimus saepe itaque voluptatem accusantium aperiam consectetur amet sequi culpa, minima id expedita nam sit dicta ducimus veniam reprehenderit, labore, magnam non!</p>
                 </div>
                 <div className='testimonios right'>
                     <h2>Testimonio</h2>

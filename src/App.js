@@ -1,5 +1,7 @@
 import { BrowserRouter as Router,Switch, Route } from "react-router-dom/cjs/react-router-dom.min";
 
+import './styles/components/layout/normalize.css'
+import './App.css';
 import Header from "./components/layout/Header";
 import Nav from "./components/layout/Nav";
 import Footer from "./components/layout/Footer";

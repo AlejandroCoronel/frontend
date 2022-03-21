@@ -1,4 +1,5 @@
  import React from 'react';
+ import '../styles/components/pages/HomePage.css'
 
  const HomePage = (props) => {
      return (
@@ -9,6 +10,7 @@
             <div className='columnas'>
                 <div className='bienvenidos left'>
                     <h2>Biemvenidos</h2>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Possimus saepe itaque voluptatem accusantium aperiam consectetur amet sequi culpa, minima id expedita nam sit dicta ducimus veniam reprehenderit, labore, magnam non!</p>
                     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Possimus saepe itaque voluptatem accusantium aperiam consectetur amet sequi culpa, minima id expedita nam sit dicta ducimus veniam reprehenderit, labore, magnam non!</p>
                 </div>
                 <div className='testimonios right'>

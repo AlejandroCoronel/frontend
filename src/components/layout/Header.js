@@ -1,11 +1,11 @@
  import '../../styles/components/layout/Header.css';
- import React from 'react';
+ //import React from 'react';
  
  const Header = (props) => {
      return (
          <header>
              <div className='holder'>
-                 <div className='logo'>
+                 <div className=''>
                     <img src='images/logo.png' width="100" alt='Transportes X'/>
                     <h1>Transportes X</h1>
                  </div>

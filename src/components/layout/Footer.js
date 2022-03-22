@@ -4,7 +4,9 @@ import React from 'react';
  const Footer = (props) => {
      return (
          <footer>
-             <p>Derechos Reservados. Transporte X año</p>
+             <div>
+                <p>Derechos Reservados. Transporte X año</p>
+             </div>
          </footer>
      );
  }
